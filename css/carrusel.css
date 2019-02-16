@@ -138,6 +138,16 @@
   letter-spacing: 0.35em;
   text-transform: uppercase;
 }
+
+.title_m {
+  margin: 0 auto 15px;
+  max-width: 1000px;
+  font: 300 40px/1.2 "Oswald", sans-serif;
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+}
+
+
 .slideshow .slide .text {
   margin: 0 auto;
   max-width: 1000px;
