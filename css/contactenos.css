@@ -1,0 +1,44 @@
+.contactenos {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+}
+
+.contenido_cont{
+    font-size: 20px;
+	background-color: lightgray;
+    border: 1px solid black;
+}	
+.menu-botones_cont{
+	margin: 3%;
+}	
+	
+.menu-botones_cont img{
+	height: 75px;
+	margin-left: auto;
+    display: block;
+    margin-right: auto;
+}	
+.menu-botones_cont p{
+	font-size: 14px;
+    text-align: center;
+}
+
+.contactenos_tit p{
+	font-size: 30px;
+	margin-top: 3%;
+    margin-bottom: 3%;
+	text-align: center;
+}	
+
+@media (max-width: 786px){
+  .contactenos {
+    flex-direction: column;
+  }
+  .contenido_cont{
+    margin-bottom: 20px;
+  }
+  .mapa iframe{
+	width: 410px;
+  }
+}

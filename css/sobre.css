@@ -1,0 +1,46 @@
+.proximamente {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1%;
+}
+
+.proximamente img{
+	border-style: none;
+    width: 60%;
+	border: 1px solid black;
+}
+
+.texto-encima{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 200%;
+    color: white;
+    text-align: justify;
+    transform: translate(-50%, -50%);
+}
+
+@media (max-width: 786px){
+   .proximamente{
+	  position: relative;; 
+	}
+	
+  .proximamente img{
+	border-style: none;
+    width: 90%;
+	border: 1px solid black;
+	}
+	
+  .texto-encima{
+	position: absolute;
+    height: 80%;
+    width: 80%;
+    font-size: 16px;
+    color: white;
+    text-align: justify;
+    overflow-y: scroll;
+    bottom: 0px;
+    margin-top: 0px;
+	}
+}

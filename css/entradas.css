@@ -1,0 +1,43 @@
+.prox{
+	width: 800px;
+    height: 400px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0;
+    bottom: 0;
+    box-shadow: 0px 20px 30px 3px rgba(0, 0, 0, 0.55);
+	display: flex;
+	flex-direction: row;
+}
+.entr {
+    width: 100%;
+    height: 400px;
+    float: left;
+    overflow: hidden;
+    border: 1px solid black;
+    background-size: cover;
+    background: url(../img/entradas/Proximamente2019.png);
+    float: left;
+    background-size: 100% 100%;
+    overflow: hidden;
+    border: 1px solid black;
+}
+.entr img {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+@media (max-width: 786px){
+	.prox{
+		border-style: none;
+		width: 90%;
+		height: 200px;
+	}
+	
+	.entr{
+		height: 100%;
+	}
+}
