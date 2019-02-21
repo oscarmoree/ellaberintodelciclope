@@ -13,6 +13,13 @@
  /* background-color: white; */
 }
 
+.topnav .nav-logo{ 
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 4px;
+    padding-bottom: 0px;
+}
+
 .topnav a:hover {
   background-color: transparent;
   color: black;
@@ -31,7 +38,7 @@
 }
 
 .nav-titulo{
-	margin-left: 5%;
+/*	margin-left: 5%;*/
 }
 
 .nav-lista{
