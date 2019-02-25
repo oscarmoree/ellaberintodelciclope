@@ -70,6 +70,26 @@
     height: 410px;
 }
 
+.image-micro2 {
+    position: absolute;
+    right: -131px;
+    top: -44px;
+    background: url(../img/ciclos/4.jpeg);
+    background-size: 105% 100%;
+    width: 238px;
+    height: 391px;
+}
+
+.image-micro2 {
+    position: absolute;
+    right: -131px;
+    top: -44px;
+    background: url(../img/ciclos/5.jpeg);
+    background-size: 105% 100%;
+    width: 238px;
+    height: 391px;
+}
+
 .menu-bot{
 	margin-top: 30px;
 }
@@ -159,6 +179,26 @@
 		right: 0px;
 		top: 420px;
 		background: url(../img/ciclos/microteatro2.jpg);
+		background-size: 100% 100%;
+		width: 420px;
+		height: 100px;
+	}
+	
+	.image-micro3{
+		position: absolute;
+		right: 0px;
+		top: 420px;
+		background: url(../img/ciclos/negro.jpg);
+		background-size: 100% 100%;
+		width: 420px;
+		height: 100px;
+	}
+	
+	.image-micro4{
+		position: absolute;
+		right: 0px;
+		top: 420px;
+		background: url(../img/ciclos/negro.jpg);
 		background-size: 100% 100%;
 		width: 420px;
 		height: 100px;
