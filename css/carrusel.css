@@ -233,6 +233,7 @@
   transition: left 0.2s ease;
 }
 
+@media (max-width: 786px){
 .sustituida {
     box-sizing: border-box;
     display: block;
@@ -240,4 +241,5 @@
     height: 115px;
     padding-left: 115px;
     background: url(img/carruse/negro.jpg);
+  }
 }
