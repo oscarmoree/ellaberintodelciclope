@@ -82,14 +82,13 @@
 
 .image-micro4 {
     position: absolute;
-    right: -131px;
+    right: -112px;
     top: -44px;
     background: url(../img/ciclos/4.jpeg);
-    background-size: 105% 100%;
-    width: 238px;
-    height: 391px;
+    background-size: 100% 100%;
+    width: 231px;
+    height: 384px;
 }
-
 .menu-bot{
 	margin-top: 30px;
 }
