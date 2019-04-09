@@ -82,13 +82,24 @@
 
 .image-micro4 {
     position: absolute;
-    right: -112px;
-    top: -44px;
+    right: -143px;
+    top: -64px;
     background: url(../img/ciclos/romeo2.jpg);
     background-size: 100% 100%;
-    width: 231px;
-    height: 384px;
+    width: 214px;
+    height: 301px;
 }
+
+.image-micro5 {
+    position: absolute;
+    right: -143px;
+    top: -64px;
+    background: url(../img/ciclos/romeo2.jpg);
+    background-size: 100% 100%;
+    width: 214px;
+    height: 301px;
+}
+
 .menu-bot{
 	margin-top: 30px;
 }
