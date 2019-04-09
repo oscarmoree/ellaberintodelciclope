@@ -214,5 +214,15 @@
 		height: 100px;
 	}
 	
+	.image-micro5{
+		position: absolute;
+		right: 0px;
+		top: 420px;
+		background: url(../img/ciclos/ber.jpg);
+		background-size: 100% 100%;
+		width: 420px;
+		height: 100px;
+	}
+	
 	
 }
