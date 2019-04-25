@@ -56,18 +56,18 @@
     top: -40px;
 	background: url(../img/ciclos/romeo2.jpg);
 	background-size: 100% 100%;
-    width: 115px;
-    height: 410px;
+        width: 174px;
+    height: 220px;
 }
 
 .image-micro2{
 	position: absolute;
     right: -60px;
     top: -40px;
-	background: url(../img/ciclos/venecia2.jpg);
-	background-size: 100% 100%;
-    width: 115px;
-    height: 410px;
+    background: url(../img/ciclos/venecia2.jpg);
+    background-size: 100% 100%;
+    width: 174px;
+    height: 220px;
 }
 
 .image-micro3 {
@@ -76,8 +76,8 @@
     top: -44px;
     background: url(../img/ciclos/ber2.jpg);
     background-size: 105% 100%;
-    width: 238px;
-    height: 391px;
+    width: 174px;
+    height: 220px;
 }
 
 .menu-bot{
