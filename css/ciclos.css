@@ -54,7 +54,7 @@
 	position: absolute;
     right: -60px;
     top: -40px;
-	background: url(../img/ciclos/microteatro4.jpg);
+	background: url(../img/ciclos/romeo2.jpg);
 	background-size: 100% 100%;
     width: 115px;
     height: 410px;
@@ -64,7 +64,7 @@
 	position: absolute;
     right: -60px;
     top: -40px;
-	background: url(../img/ciclos/microteatro1.jpg);
+	background: url(../img/ciclos/venecia2.jpg);
 	background-size: 100% 100%;
     width: 115px;
     height: 410px;
@@ -78,26 +78,6 @@
     background-size: 105% 100%;
     width: 238px;
     height: 391px;
-}
-
-.image-micro4 {
-    position: absolute;
-    right: -143px;
-    top: -64px;
-    background: url(../img/ciclos/ber2.jpg);
-    background-size: 100% 100%;
-    width: 214px;
-    height: 301px;
-}
-
-.image-micro5 {
-    position: absolute;
-    right: -143px;
-    top: -64px;
-    background: url(../img/ciclos/romeo2.jpg);
-    background-size: 100% 100%;
-    width: 212px;
-    height: 244px;
 }
 
 .menu-bot{
@@ -178,7 +158,7 @@
 		position: absolute;
 		right: 0px;
 		top: 420px;
-		background: url(../img/ciclos/microteatro5.jpg);
+		background: url(../img/ciclos/romeo.jpg);
 		background-size: 100% 100%;
 		width: 420px;
 		height: 100px;
@@ -188,7 +168,7 @@
 		position: absolute;
 		right: 0px;
 		top: 420px;
-		background: url(../img/ciclos/microteatro2.jpg);
+		background: url(../img/ciclos/venecia.jpg);
 		background-size: 100% 100%;
 		width: 420px;
 		height: 100px;
@@ -203,26 +183,4 @@
 		width: 420px;
 		height: 100px;
 	}
-	
-	.image-micro4{
-		position: absolute;
-		right: 0px;
-		top: 420px;
-		background: url(../img/ciclos/ber.jpg);
-		background-size: 100% 100%;
-		width: 420px;
-		height: 100px;
-	}
-	
-	.image-micro5{
-		position: absolute;
-		right: 0px;
-		top: 420px;
-		background: url(../img/ciclos/romeocelu.jpg);
-		background-size: 100% 100%;
-		width: 420px;
-		height: 100px;
-	}
-	
-	
 }
