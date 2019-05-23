@@ -160,8 +160,8 @@
 		top: 420px;
 		background: url(../img/ciclos/romeo.jpg);
 		background-size: 100% 100%;
-		width: 420px;
-		height: 100px;
+		width: 363px;
+		height: 107px;
 	}
 
 	.image-micro2{
@@ -170,8 +170,8 @@
 		top: 420px;
 		background: url(../img/ciclos/venecia.jpg);
 		background-size: 100% 100%;
-		width: 420px;
-		height: 100px;
+		width: 363px;
+    		height: 107px;
 	}
 	
 	.image-micro3{
@@ -180,7 +180,7 @@
 		top: 420px;
 		background: url(../img/ciclos/ber.jpg);
 		background-size: 100% 100%;
-		width: 420px;
-		height: 100px;
+		width: 363px;
+    		height: 107px;
 	}
 }
